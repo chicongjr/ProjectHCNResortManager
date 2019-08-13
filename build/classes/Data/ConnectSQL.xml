@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:connectSQL xmlns:ns2="https://gpcoder.com/jaxb">
+    <URL>jdbc:sqlserver://localhost;</URL>
+    <name>sa</name>
+    <password>123</password>
+</ns2:connectSQL>
